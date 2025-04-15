@@ -1,3 +1,3 @@
-let nombreUsuario = prompt("¿Como es su nombre?")
+const nombreUsuario = prompt("¿Como es su nombre?")
 document.writeln(`¡Hola ${nombreUsuario}!`)
 
